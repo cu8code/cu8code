@@ -1,3 +1,3 @@
-#### Hi! I am ankan roy! I am an undergrad!
+# Gaming And AI
 
-`email me at 8ankanroy@gmail.com`
+Hi, if you are reading this i must say, you really like my profile pic or something. Now I am writing this at a time when the world doesn't know about me, but maybe that has changed by the time you read this. I may become some cring_ass youtuber, or a Chad Racist. Whatever the reason may be I guess WELCOME. I am currently working towards understanding the idea of AI and ML.
