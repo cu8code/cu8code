@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="150" src="https://giphy.com/gifs/miamiheat-miami-heat-2symV92GJdMKWrpvy9"  />
+<div style="width:100%;height:0;padding-bottom:125%;position:relative;"><iframe src="https://giphy.com/embed/2symV92GJdMKWrpvy9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/miamiheat-miami-heat-2symV92GJdMKWrpvy9">via GIPHY</a></p>
 
 ###
 
