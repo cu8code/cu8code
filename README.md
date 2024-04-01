@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/4nsw.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/FD7YecPHYUMAAAAi/cool-autism.gif"  />
 
 ###
 
