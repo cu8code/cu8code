@@ -1,4 +1,4 @@
-<h2 align="left">Typescript Power Ranger for the future! Working to establish the Church of TS</h2>
+<h2 align="left">Typescript Power Ranger from the future! Working to establish the Church of TS</h2>
 
 ###
 
