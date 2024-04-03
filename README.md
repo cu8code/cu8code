@@ -56,6 +56,6 @@
 
 | Company  | Title              | Date                      | Description      |
 | :------- | :--------------    | :-------------            | :-------------   |
-| CashGrab | Software Developer | 1-jan-2024 :  30-feb-2024 | ui/ux            |
-| Buxr     | Software Developer | march 2024 :  present     | ceo              |
+| CashGrab | Software Developer | 1-Jan-2024 :  30-Feb-2024 | ui/ux            |
+| Buxr     | Software Developer | April 2024 :  present     | backend          |
 
