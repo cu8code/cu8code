@@ -50,12 +50,3 @@
 <p align="left">Hi, I am a Frontend developer from India! I like to read teach blog and time to time stream on YouTube. Trio lingual, anime we boo. I like to jump on the new stuff. I use fedora and neo-vim!</p>
 
 ##
-
-
-## Experience
-
-| Company  | Title              | Date                      | Description      |
-| :------- | :--------------    | :-------------            | :-------------   |
-| CashGrab | Software Developer | 1-Jan-2024 :  30-Feb-2024 | ui/ux            |
-| Buxr     | Software Developer | April 2024 :  present     | backend          |
-
